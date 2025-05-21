@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 st.set_page_config(page_title="STOCK MARKET APP", layout='wide')
  
 st.title("Stock Market App")
+
 st.subheader("by Payal Holmukhe")
  
 company = st.text_input("Enter Company Name")
